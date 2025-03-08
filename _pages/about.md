@@ -7,7 +7,7 @@ subtitle: <a href='https://www.ece.uw.edu/'>University of Washington</a>. feier5
 profile:
   align: right
   image: /Users/feier/Desktop/GitHub/flong513.github.io/assets/img/feierHeadShot.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
