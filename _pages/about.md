@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.ece.uw.edu/'>University of Washington</a>. feier513[at]uw[dot]edu.
 
 profile:
-  align: left
+  align: right
   image: /Users/feier/Desktop/GitHub/flong513.github.io/assets/img/feierHeadShot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
