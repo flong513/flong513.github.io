@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ece.uw.edu/'>University of Washington</a>. feier5
 
 profile:
   align: left
-  image: /Users/feier/Desktop/GitHub/flong513.github.io/assets/img/feierHeadShot.jpg
+  image: assets/img/feierHeadShot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
