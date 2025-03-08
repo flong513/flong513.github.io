@@ -7,7 +7,7 @@ subtitle: <a href='https://www.ece.uw.edu/'>University of Washington</a>. feier5
 profile:
   align: right
   image: /Users/feier/Desktop/GitHub/flong513.github.io/assets/img/feierHeadShot.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -37,7 +37,7 @@ Hello! I am a third-year undergraduate student at the [University of Washington,
 
 Beyond research, I am passionate about teaching and mentoring. I currently serve as a Teaching Assistant for EE 201 and have previously TA’ed EE 271.
 
-Outside of academics, I enjoy running, taking long exploratory walks, and experimenting with new recipes. Feel free to reach out—I'm always happy to connect and chat!
+Outside of academics, I enjoy playing tennis, running, taking long exploratory walks, and experimenting with new recipes. Feel free to reach out—I'm always happy to connect and chat!
 
 
 
