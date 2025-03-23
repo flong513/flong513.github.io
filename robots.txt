@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://flong513.github.io/sitemap.xml
+Sitemap: https://github.com/flong513/flong513.github.io/sitemap.xml
