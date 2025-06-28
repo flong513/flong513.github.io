@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-06-23
+title: Announcements
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Excited to share that I been awared with the [Stephanie Subak Endowed Memorial Scholarship](https://www.ece.uw.edu/spotlight/memorial-scholarship-honors-alum-stephanie-subak/) 
