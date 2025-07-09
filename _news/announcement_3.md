@@ -5,4 +5,4 @@ title: Announcements
 inline: true
 related_posts: false
 ---
-Excited to share that I been awared with the [Stephanie Subak Endowed Memorial Scholarship](https://www.ece.uw.edu/spotlight/memorial-scholarship-honors-alum-stephanie-subak/) 
+Excited to share that I have been awarded the [Stephanie Subak Endowed Memorial Scholarship](https://www.ece.uw.edu/spotlight/memorial-scholarship-honors-alum-stephanie-subak/) 
