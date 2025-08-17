@@ -384,14 +384,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-bandei-has-been-submitted-to-uist",
-          title: 'BandEI has been submitted to UIST.',
-          description: "",
-          section: "News",},{id: "news-i-presented-at-the-undergraduate-symposium",
+            },},{id: "news-i-presented-at-the-undergraduate-symposium",
           title: 'I presented at the Undergraduate Symposium.',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-i-have-been-awarded-the-stephanie-subak-endowed-memorial-scholarship",
           title: 'Excited to share that I have been awarded the Stephanie Subak Endowed Memorial...',
+          description: "",
+          section: "News",},{id: "news-bandei-has-been-accepted-to-uist",
+          title: 'BandEI has been accepted to UIST!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
