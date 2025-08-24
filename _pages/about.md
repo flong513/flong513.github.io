@@ -24,3 +24,5 @@ Hello! I am a third-year undergraduate student at the [University of Washington,
 Beyond research, I am passionate about teaching and mentoring. I currently serve as a Teaching Assistant for EE 201 and have previously TA’ed EE 271.
 
 Outside of academics, I enjoy playing tennis, running, taking long exploratory walks, and experimenting with new recipes. Feel free to reach out—I'm always happy to connect and chat!
+
+
